@@ -1,0 +1,107 @@
+2lue aspl
+2lue lpas
+2lue sapl
+aspl 2lue
+aspl e2lu
+e2lu aspl
+e2lu lpas
+e2lu sapl
+lpas 2lue
+lpas e2lu
+sapl 2lue
+sapl e2lu
+-1
+2lue awr9
+2lue awr9
+awr9 2lue
+awr9 2lue
+awr9 e2lu
+awr9 e2lu
+e2lu awr9
+e2lu awr9
+-1
+2lue iblp
+e2lu iblp
+iblp 2lue
+iblp e2lu
+-1
+2lue gyro
+e2lu gyro
+eyogl r2u
+eyogl u2r
+gyro 2lue
+gyro e2lu
+r2u eyogl
+u2r eyogl
+-1
+2lue owtn
+2lue wotn
+e2lu owtn
+e2lu wotn
+owtn 2lue
+owtn e2lu
+wotn 2lue
+wotn e2lu
+-1
+2lue hytl
+e2lu hytl
+hytl 2lue
+hytl e2lu
+-1
+2lue frye
+2lue yref
+e2lu frye
+e2lu yref
+frye 2lue
+frye e2lu
+yref 2lue
+yref e2lu
+-1
+2lue qalg
+e2lu qalg
+qalg 2lue
+qalg e2lu
+-1
+2lue paaq
+e2lu paaq
+paaq 2lue
+paaq e2lu
+-1
+2lue omno
+e2lu omno
+omno 2lue
+omno e2lu
+-1
+2lue gis
+2lue sgi
+e2lu gis
+e2lu sgi
+gis 2lue
+gis e2lu
+sgi 2lue
+sgi e2lu
+-1
+2lue ef4t
+e2lu ef4t
+ef4t 2lue
+ef4t e2lu
+-1
+2lue atvs
+2lue tvas
+atvs 2lue
+atvs e2lu
+e2lu atvs
+e2lu tvas
+tvas 2lue
+tvas e2lu
+-1
+2lue clp
+clp 2lue
+clp e2lu
+e2lu clp
+-1
+2lue gka7
+e2lu gka7
+gka7 2lue
+gka7 e2lu
+-1

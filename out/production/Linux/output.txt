@@ -1,0 +1,61 @@
+Count Is : 2188
+-1
+Count Is : 2192
+-1
+Count Is : 3082
+-1
+Count Is : 6563
+-1
+Count Is : 3281
+-1
+Count Is : 1544
+-1
+Count Is : 2552
+-1
+Count Is : 4378
+-1
+Count Is : 6562
+-1
+Count Is : 3082
+-1
+Count Is : 4402
+-1
+Count Is : 9842
+-1
+Count Is : 1706
+-1
+Count Is : 2678
+-1
+Count Is : 2938
+-1
+Count Is : 6566
+-1
+Count Is : 4402
+-1
+Count Is : 4402
+-1
+Count Is : 18659
+-1
+Count Is : 2188
+-1
+Count Is : 9842
+-1
+Count Is : 39398
+-1
+Count Is : 59063
+-1
+Count Is : 2228
+-1
+Count Is : 7655
+-1
+Count Is : 2188
+-1
+Count Is : 26435
+-1
+Count Is : 2188
+-1
+Count Is : 2552
+-1
+Count Is : 2228
+-1
+Total Time Taken :PT0.324S
