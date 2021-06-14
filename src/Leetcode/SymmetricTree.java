@@ -1,9 +1,5 @@
 package Leetcode;
 
-import java.util.ArrayDeque;
-import java.util.Deque;
-import java.util.Vector;
-
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -19,23 +15,23 @@ import java.util.Vector;
  *     }
  * }
  */
-class TreeNode{
+class MyTreeNode {
     int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode() {}
-    TreeNode(int val) { this.val = val; }
-    TreeNode(int val, TreeNode left, TreeNode right) {
+    MyTreeNode left;
+    MyTreeNode right;
+    MyTreeNode() {}
+    MyTreeNode(int val) { this.val = val; }
+    MyTreeNode(int val, MyTreeNode left, MyTreeNode right) {
         this.val = val;
         this.left = left;
         this.right = right;
     }
 }
 class SolutionTRee {
-    public boolean isSymmetric(TreeNode root) {
+    public boolean isSymmetric(MyTreeNode root) {
         return isMirror(root,root);
     }
-    public boolean isMirror(TreeNode a, TreeNode b){
+    public boolean isMirror(MyTreeNode a, MyTreeNode b){
         if(a ==null && b == null) return true;
         if(a == null || b == null) return false;
 
