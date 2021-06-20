@@ -31,7 +31,7 @@ interface NestedInteger {
     // Return empty list if this NestedInteger holds a single integer
     public List<NestedInteger> getList();
 }
-public class NestedIterator implements Iterator<Integer> {
+class NestedIterator implements Iterator<Integer> {
 
     private List<Integer> flatList = new ArrayList<Integer>();
     int currIndex =0;
